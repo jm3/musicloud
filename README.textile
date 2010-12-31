@@ -14,3 +14,4 @@ h3. Enter Musicloud.
 4. Voila
 
 !https://github.com/jm3/musicloud/raw/master/example-cloud.png!
+
