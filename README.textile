@@ -1,4 +1,4 @@
-h1. Musicloud
+!https://github.com/jm3/musicloud/raw/master/logo.png!
 
 h2. Problems:
 
