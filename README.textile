@@ -12,3 +12,5 @@ h3. Enter Musicloud.
 2. Run musicloud.rb on your iTunes Music directory.
 3. Paste the output into http://www.wordle.net/
 4. Voila
+
+!https://github.com/jm3/musicloud/raw/master/example-cloud.png!
