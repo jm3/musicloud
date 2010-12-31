@@ -1,16 +1,14 @@
-musicloud
+h1. Musicloud
 
-PROBLEMS:
+h2. Problems:
+
 * The ID3 "Genre" field is a scalar rather than a list, therefore any song which straddles or combines more than one genre is inherently uncategorizable. Library scientists evidentally call this, "The Bookshelf Problem" - while a book may be categorized in many ways, it can only physically be on one shelf at a time. iTunes has the Bookshelf Problem. 
 
 * Since your iTunes playlists exist only in your iTunes metadata file, they are not portable to eg. linux, and will be lost if your iTunes data is ever corrupted.
 
-Enter Musicloud.
+h3. Enter Musicloud.
 
 1. When adding a new song to your iTunes, use the "Grouping" field to enter a list of ALL genres that apply to the song.
-
 2. Run musicloud.rb on your iTunes Music directory.
-
 3. Paste the output into http://www.wordle.net/
-
 4. Voila
