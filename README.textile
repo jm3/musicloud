@@ -1,6 +1,6 @@
 !https://github.com/jm3/musicloud/raw/master/logo.png!
 
-h2. Problems:
+h3. Problems:
 
 * The ID3 "Genre" field is a scalar rather than a list, therefore any song which straddles or combines more than one genre is inherently uncategorizable. Library scientists evidentally call this, "The Bookshelf Problem" - while a book may be categorized in many ways, it can only physically be on one shelf at a time. iTunes has the Bookshelf Problem. 
 
