@@ -1,6 +1,12 @@
-require "rubygems"
-require "mp3info"
-require "find"
+#!/usr/bin/env ruby
+
+gems = %w(rubygems mp3info find)
+begin
+  gems.each { |g| gem g }
+rescue
+  puts "Please install the following ruby gems: #{gems.join(', ')}."
+  exit
+end
 
 songs_dir = '~/Dropbox/Music/'
 # you should need to change nothing below this line:
